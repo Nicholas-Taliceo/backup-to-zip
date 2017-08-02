@@ -18,7 +18,7 @@ Inspiration for this script is to backup an external harddrive to a cloud-based 
 
 1. Open backup_to_zip.py in a Python 3+ IDE. Run this script.
 2. The first parameter is the **directory to be saved**. 
-  - Input the pathname *exactly* as it appears in Windows Explorer.
+  ..-Input the pathname *exactly* as it appears in Windows Explorer.
 3. The second parameter is the output path, aka, **where the ZIP file will be saved.**
 
 ## Further Work
