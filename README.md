@@ -1,6 +1,7 @@
 # backup-to-zip
 
 *Author*: Nicholas P. Taliceo
+
 *Date*: 01 August 2017
 
 ## Purpose
