@@ -59,7 +59,7 @@ def backup_to_zip(directory, output):
     # Create the ZIP file.
     print('Creating %s...' % zip_file_name)
     backup_zip = zipfile.ZipFile(os.path.abspath(output) + '\\' +
-                                 zip_file_name, 'w')
+                                 zip_file_name, 'w', zipfile.ZIP_DEFLATED)
 
     # For each top-level folder in the directory, walk through each folder
     # and compress all files found in that folder.
