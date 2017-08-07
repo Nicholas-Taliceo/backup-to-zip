@@ -18,3 +18,16 @@ Rather, it would be preferable to find a way to *program* this script to start a
 *Note:* This will be using the *Windows* operating system.
 
 1. In the search bar, type "Task Scheduler" and open the shortcut.
+2. Click the Create Basic Task link at the right-hand side of the Task Scheduler window.
+3. Add a name and description for the task. Click Next.
+4. On the Task Trigger page, choose the Monthly radio button. Click Next.
+    1. Choose the first of the subsequent month at 12:00.
+    2. Check "Synchronize across time zones".
+    3. Choose all months.
+    4. Under "Days", choose the first (1).
+    5. On
+5. Under "Action" choose the "Start a program" radio button. Click Next.
+    1. Click Browse... and select the program you wish to run.
+    2. It is suggested that you choose to save this file directly under the C drive.
+6. Review what has been established and click Finish.
+7. Once the task has been created, navigate to where it is stored, right-click and click on Properties. In the Settings tab, check "Run task as soon as possible after a scheduled start is missed". Click OK.
