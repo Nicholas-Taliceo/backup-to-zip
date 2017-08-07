@@ -8,3 +8,13 @@ Rather, it would be preferable to find a way to *program* this script to start a
 2. Allow the program to wait until the first of the month to execute the backup file.
 3. If the computer is powered-down, wait until the next reboot to execute the Python script.
 4. If possible, ask the user if s/he wants to take the time to backup the files, or wait until another specified time.
+
+### Resources
+* [Automate the Boring Stuff - Schedulers](https://automatetheboringstuff.com/schedulers.html)
+* [How to Automatically Run Programs and Set Reminders With the Windows Task Scheduler (How-To Geek)](https://www.howtogeek.com/123393/how-to-automatically-run-programs-and-set-reminders-with-the-windows-task-scheduler/)
+
+### Instructions
+
+*Note:* This will be using the *Windows* operating system.
+
+1. In the search bar, type "Task Scheduler" and open the shortcut.
