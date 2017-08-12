@@ -31,3 +31,17 @@ Rather, it would be preferable to find a way to *program* this script to start a
     2. It is suggested that you choose to save this file directly under the C drive.
 6. Review what has been established and click Finish.
 7. Once the task has been created, navigate to where it is stored, right-click and click on Properties. In the Settings tab, check "Run task as soon as possible after a scheduled start is missed". Click OK.
+
+### Supplemental Graphics in Task Scheduler
+
+The "General" tab of Task Scheduler:
+
+![Image of General Task Scheduler](https://github.com/Nicholas-Taliceo/backup-to-zip/blob/master/graphics/sched_general.png)
+
+The "Trigger" tab of Task Scheduler:
+
+![Image of Trigger Task Scheduler](https://github.com/Nicholas-Taliceo/backup-to-zip/blob/master/graphics/sched_trigger.png)
+
+The "Action" tab of Task Scheduler:
+
+![Image of Action Task Scheduler](https://github.com/Nicholas-Taliceo/backup-to-zip/blob/master/graphics/sched_action.png)
